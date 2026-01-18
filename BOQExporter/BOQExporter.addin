@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>BOQ Extractor</Name>
+    <Assembly>D:\BIM Software Development course\Grad_Porject\BOQExporter\BOQExporter\bin\x64\Debug\BOQExporter.dll</Assembly>
+    <FullClassName>BOQExporter.Revit.Entry.ExtApp</FullClassName>
+    <AddInId>EB7FA6D1-3C5E-401A-99EC-1D2BC6FA35BB</AddInId>
+    <VendorId>Mahmoud Allam</VendorId>
+    <VendorDescription>mahmoud.amr55@gmail.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
