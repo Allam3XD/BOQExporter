@@ -48,6 +48,8 @@ Usage Instructions
 
 Version
 v1.0
+Promotional video
+https://drive.google.com/file/d/1gkmRYRMwWQUn2vaoKT5IaMMfwbMvNPhM/view?usp=sharing
 
 Contact
 Mahmoud Amr Allam
